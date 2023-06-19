@@ -1,3 +1,3 @@
 # Walmart
-Developer in Salesforce.
+Developer in Salesforce
 Hello
